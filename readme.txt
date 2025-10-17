@@ -1,3 +1,13 @@
+Code for the paper: Spontaneous emergence and evolution of neuronal sequences in recurrent networks
+by Shuai Shao (1,2,3)
+Juan Luis Riquelme (1,3*)
+Julijana Gjorgjieva (3*)
+Computation in Neural Circuits Group, Max Planck Institute for Brain Research, Frankfurt, Germany
+2. Donders Institute and Faculty of Science, Radboud University, Nijmegen, Netherlands
+3. School of Life Sciences, Technical University of Munich, Freising, Germany
+gjorgjieva@tum.de; juan.riquelme@brain.mpg.de
+which can be found here https://www.biorxiv.org/content/10.1101/2024.09.27.615499v1
+
 basic_network: The main network, generates Fig. 1C, 1D, 2A, 2B. The subfolders "1", "2", and "3" are three consecutive simulation periods of 8000s, 7000s, and 3000s, respectively.
 
 correlated_inputs: The network with spatially structured inputs, generates Fig. 5B, 5C, 5F, 5G, and S11. Subfolders 1 and 2 are  consecutive simulation periods of 10000s and 15000s that constitute Fig. 5B. Subfolder 3 corresponds to 8000s to 25000s in Fig. 5F. Subfolder 4 corresponds to 10000 to 25000s in Fig. 5G.
@@ -27,6 +37,7 @@ turnover: Turnover of strong connections, generates Fig. 2C-E and S7.
 turnover_correlated_inputs: Turnover of strong connections in the network with spatially structured inputs, generates Fig. 5E.
 
 turnover_shifting_inputs: Turnover of strong connections in the network with temporally structured inputs, generates Fig. 6E.
+
 
 
 
