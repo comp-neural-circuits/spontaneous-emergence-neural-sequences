@@ -1,0 +1,1 @@
+find the threshold of synaptic weights of clean sequences, aeif model
